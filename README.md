@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A passionate Programmer and a Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhosh-h" alt="santhosh-h" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter,Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santhosh h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh h" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhosh-h-a29210227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhosh-h-a29210227/" height="30" width="40" /></a>
 <a href="https://instagram.com/santhoshhariharan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhoshhariharan_" height="30" width="40" /></a>
 </p>
 
