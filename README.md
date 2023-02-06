@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A passionate Programmer and a Developer</h3>
 
-- 🌱 I’m currently learning **Flutter,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
 
