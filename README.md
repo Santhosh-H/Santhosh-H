@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
-
 - 💬 Ask me about **Python,Java,C,DSA**
 
 - 📄 Know about my experiences [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
