@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Santhosh</h1>
 <h3 align="center">A passionate Programmer and a Developer</h3>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python,Java,C,DSA**
