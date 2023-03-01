@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Python,Java,C,DSA**
 - 📄 Know about my experiences [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
-- ⚡ Fun fact **Speedrun🧑‍🎓**
+- ⚡ Fun fact **Speedrun🎓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
