@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
-- 
+
 - 💬 Ask me about **Python,Java,C,DSA**
 
 - 📄 Know about my experiences [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
