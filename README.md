@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
