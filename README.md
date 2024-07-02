@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **Python,Java,C,DSA**
 
-- 📄 Know about my experiences [https://santhosh-coder.coolpage.biz/](https://santhosh-coder.coolpage.biz/)
-
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
