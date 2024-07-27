@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Santhosh</h1>
+<h1 align="center">Hi , I'm Santhosh.</h1>
 <h3 align="center">A passionate Programmer</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
